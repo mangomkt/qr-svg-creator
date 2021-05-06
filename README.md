@@ -1,5 +1,7 @@
 # qr-svg-creator
 
+https://qr-svg.netlify.app/
+
 ## Project setup
 ```
 npm install
