@@ -2,7 +2,7 @@
 	<div class="home">
 		<div class="container">
 			<div class="page-header">
-				<h1 class="text-center">QR SVG Creator</h1>
+				<h1 class="text-center">QR to SVG Creator</h1>
 				
 			</div>
 			
