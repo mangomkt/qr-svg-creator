@@ -2,7 +2,7 @@
 	<div class="home">
 		<div class="container">
 			<div class="page-header">
-				<h1 class="text-center">QR SVG Creator</h1>
+				<h1 class="text-center">SVG - QR Creator</h1>
 				
 			</div>
 			
@@ -15,7 +15,7 @@
 			<vue-qrcode :value="value" tag="svg" id="qrwrap" :options="{ width: 300, margin: 0, color: { dark: '#000', light: '#fff' } }"></vue-qrcode>
 			<div class="btn-wrap">
 				<button v-on:click="download" class="btn icon-btn">
-					download
+					download SVG QR
 				</button>
 			</div>
 		</div>
